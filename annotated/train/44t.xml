@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>44t.jpg</filename>
+	<path>/home/apiiit-rkv/Desktop/toll plaza/images/44t.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>696</width>
+		<height>392</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>toll plaza</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>182</ymin>
+			<xmax>695</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>
